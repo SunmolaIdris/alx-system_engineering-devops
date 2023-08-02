@@ -1,2 +1,2 @@
 #!/bin/bash
-The file created inside the shell basics directory
+current_directory=$(pwd)
