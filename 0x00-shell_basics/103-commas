@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -A -m -v | sed -E 's/([^,]+)\//\1\//g' | tr -d '\n' && echo
-
+ls -pamv
